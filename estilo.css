@@ -1,0 +1,217 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    height: 400px;
+    background-image: url(imagenes/ironman.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-attachment: scroll;
+    background-size: 100%;
+}
+
+a{text-decoration: none;} 
+
+.alfabetico{
+    background-color: rgba(12, 162, 255, 0.898);
+    margin: 5px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+.apartados{
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    width: 1270px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.cinesa{
+    color: grey;
+    width: 350px;
+}
+
+.coloralfabetico{
+    color: white;
+}
+
+.colorcuenta{
+    color: grey;
+}
+.colortoppelis{
+    color: rgba(0, 89, 255, 0.735);
+}
+.colortoppelis:hover{
+    color: white;
+}
+
+.cuenta{
+    display: flex;
+    margin-left: 800px;
+}
+
+#divgeneral{
+    width: 1300px;
+    margin: 0 auto 0 auto;
+}
+
+.estrellas{
+    background-color:rgb(213, 216, 220);
+    width: 200px;    
+}
+
+.fichas{
+    background-color: white;
+    margin: 15px;
+    width: 240px;
+    height: 350px;
+    padding: 5px 20px;
+}
+
+footer{
+    background-color: white;
+}
+
+h3{
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
+
+header{
+    background-color: white;
+    width: 100%;
+}
+
+.info{
+    margin: 15px;
+    text-align: center;
+    width: 120px;
+    height: 33px;
+    padding-top: 10px;
+}
+
+.infocinesa{
+    display: flex;
+}
+
+.info:hover{
+    background-color: yellow;
+}
+
+.imgcinesa{
+    margin: 10px;
+}
+
+.infoempresa{
+    display: flex;
+    width: 1700px;
+    margin: 3px;
+    margin-top: 60px;
+}
+
+.infopeli{
+    width: 550px;
+    list-style: none;
+}
+
+.iniciar{
+    margin: 10px;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 30px;
+}
+
+.lugares{
+    color: rgb(0, 132, 255);
+}
+
+.lugares:hover{
+    color:white
+}
+
+main{
+    background-color:rgb(213, 216, 220);
+}
+
+.nuevacuenta{
+    margin: 10px;
+}
+
+.ordenar{
+    width: 450px;
+    height: 40px;
+    padding: 10px;
+    margin-left: 800px;
+    display: flex;
+}
+
+.ordenarpor{
+    color: rgb(0, 81, 255);
+    width: 150px;
+    margin-right: 3px;
+}
+
+.partes{
+    background-color:rgb(174, 182, 191);
+    margin: 8px;
+    width: 200px;
+    height: 40px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.partes:hover{
+    background-color:rgb(0, 132, 255);
+}
+
+.pelis{
+    display: flex;
+    width: 1405px;
+}
+
+.portadas{
+    background-color:white;
+    width: 700px;
+    margin: 0px 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.redessociales{
+    width: 1005px;
+    height: 15px;
+    padding-left: 395px;
+}
+
+.titulo{
+    color: blue;
+    margin-left: 20px;
+    margin-right: 15px;
+    width: 170px;
+    text-align: center;
+}
+
+.toppelis{
+    background-color: white;
+    width: 200px;
+}
+.toppelis:hover{
+    background-color: rgba(12, 162, 255, 0.898);
+}
+
+.toppelisorden{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
