@@ -28,6 +28,10 @@ a{text-decoration: none;}
     margin: 2px;
 }
 
+.caractinfocinesa{
+    color: black;
+}
+
 .cinesa{
     color: grey;
     width: 350px;
@@ -41,7 +45,7 @@ a{text-decoration: none;}
     color: grey;
 }
 .colortoppelis{
-    color: rgba(0, 89, 255, 0.735);
+    color:blue;
 }
 .colortoppelis:hover{
     color: white;
@@ -129,7 +133,7 @@ header{
 }
 
 .lugares{
-    color: rgb(0, 132, 255);
+    color:blue
 }
 
 .lugares:hover{
@@ -153,7 +157,7 @@ main{
 }
 
 .ordenarpor{
-    color: rgb(0, 81, 255);
+    color: rgba(0, 89, 255, 0.735);
     width: 150px;
     margin-right: 3px;
 }
