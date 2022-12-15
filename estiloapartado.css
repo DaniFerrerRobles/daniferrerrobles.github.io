@@ -1,0 +1,65 @@
+a{text-decoration: none;}
+
+.alinear{
+    display: flex;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.centrar{
+    width: 150px;
+    height: 30px;
+    margin: 30px 20px 15px 0px;
+    color: grey;
+    padding: 10px 5px 5px 10px;
+}
+
+#divprincipal{
+    background-color:rgba(213, 216, 220);
+    width: 1300px;
+    margin: 0 auto 0 auto;
+}
+
+h1{
+    background-color: white;
+    padding: 10px 0px;
+    color: rgb(255, 195, 0);
+    width: 100%; 
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 30px 20px 30px 0px;
+    text-align: center;
+}
+
+.infopeli{
+    background-color:white;
+    width: 535px;
+    list-style: none;
+}
+
+.portadas{
+    background-color:white;
+    width: 700px;
+    margin: 0px 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.sinopsis{
+    background-color:white;
+    width: 1240px;
+    margin: 20px 15px 20px 25px;
+    padding: 5px;
+}
+
+.titulo{
+    margin-left: 20px;
+    width: 1250px;
+    display: flex;
+}
+
+ul{list-style: none;}
